@@ -1,5 +1,7 @@
 # Toolbox Bodensee Presskit
 
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/webseite/toolbox-presskit). Auf GitHub befindet sich lediglich ein Mirror**
+
 ## Colors
 ### Main Colors
 - ![#E64F2D](https://placehold.it/15/E64F2D/000000?text=+) `#E64F2D` Orange
